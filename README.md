@@ -10,7 +10,7 @@ _Swing in java is part of Java foundation class which is lightweight and platfor
 
 
 
-https://user-images.githubusercontent.com/108913933/183858633-2a7a7b99-9d0e-4701-a8cb-913b590496e3.mp4
+[click](https://user-images.githubusercontent.com/108913933/183858633-2a7a7b99-9d0e-4701-a8cb-913b590496e3.mp4)
 
 
 
